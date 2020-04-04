@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(210,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(218,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(232): message : выполняется компиляция ссылки на экземпляр шаблон функции "void bubble_sort<int*>(T,const size_t)"
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(232): message :         with
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(232): message :         [
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(232): message :             T=int *
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(232): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(669): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::chrono::duration<double,std::ratio<1,1>>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(177): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::chrono::duration<__int64,std::nano>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(647): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>"
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(89,8): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(238): message : выполняется компиляция ссылки на экземпляр шаблон функции "void quick_Sort<int>(T [],const size_t)"
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(238): message :         with
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(238): message :         [
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(238): message :             T=int
+C:\Users\Дмитрий\source\repos\Project1\Project1\Source.cpp(238): message :         ]
+  Project1.vcxproj -> C:\Users\Дмитрий\source\repos\Project1\Debug\Project1.exe
